@@ -1,0 +1,10 @@
+[theme]
+# Colores MRES finales (Configuración estándar de Streamlit)
+primaryColor="#054D7F"          # Azul MRES para elementos interactivos
+backgroundColor="#FFFFFF"       # Fondo del área principal (Blanco)
+secondaryBackgroundColor="#F0F0F0" # Fondo secundario: GRIS CLARO para la barra lateral
+textColor="#000000"             # Color del texto global: NEGRO (funciona bien en blanco y gris claro)
+
+# Tipografías alternativas (Sitka Small/Gill Sans MT)
+font="serif"
+
