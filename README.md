@@ -1,1 +1,1 @@
-# Calculo-Apoyos-Elastom-ricos-
+# Calculo-Apoyos-Elastomericos
